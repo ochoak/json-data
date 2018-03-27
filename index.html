@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource.min.js"></script>
+</head>
+
+<body>
+<div id="values">
+	<h1>{{ title }}</h1>
+	<ol>
+		<li v-for="valor in valores">
+			<p>título: {{valor.title}}(id:{{valor.id}})</p>
+		</li>
+	</ol>
+	<ul>
+		<li v-for="persona in personas">
+			<p><img v-bind:src="persona.picture" /></p>
+			<p>{{persona.name.first}}  {{persona.name.last}} loves {{persona.favoriteFruit}}</p>
+			<p>TAGS: 
+				<span v-for="(tag,i) in persona.tags" v-if="i<persona.tags.length-1">{{tag}},</span> 
+				<span v-else>{{tag}}</span> 
+			</p>
+
+		</li>
+	</ul>
+</div> <!--end of weather-->
+</body>
+
+<script src="app.js"></script>
+
+</html>

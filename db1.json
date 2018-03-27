@@ -1,0 +1,210 @@
+[
+  {
+    "id": "5aba173607990763285e2c24",
+    "index": 0,
+    "isActive": false,
+    "balance": "$2,874.19",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": {
+      "first": "Wiley",
+      "last": "Powers"
+    },
+    "company": "STOCKPOST",
+    "email": "wiley.powers@stockpost.info",
+    "phone": "+1 (923) 565-2324",
+    "address": "404 Eaton Court, Cleary, North Carolina, 6116",
+    "registered": "Thursday, February 22, 2018 12:46 AM",
+    "tags": [
+      "Lorem",
+      "elit",
+      "sit",
+      "amet",
+      "et"
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "5aba173774533ec55e115744",
+    "index": 1,
+    "isActive": true,
+    "balance": "$2,723.04",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Staci",
+      "last": "Lamb"
+    },
+    "company": "QUAREX",
+    "email": "staci.lamb@quarex.co.uk",
+    "phone": "+1 (876) 481-2217",
+    "address": "214 Veterans Avenue, Beyerville, Vermont, 8837",
+    "registered": "Wednesday, February 10, 2016 5:57 AM",
+    "tags": [
+      "est",
+      "elit",
+      "officia",
+      "qui",
+      "nisi"
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": "5aba17379f3fb30d491f973d",
+    "index": 2,
+    "isActive": true,
+    "balance": "$1,279.37",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Nikki",
+      "last": "Odom"
+    },
+    "company": "KENGEN",
+    "email": "nikki.odom@kengen.me",
+    "phone": "+1 (820) 491-3075",
+    "address": "666 Crawford Avenue, Kidder, Kentucky, 8366",
+    "registered": "Monday, February 24, 2014 6:22 AM",
+    "tags": [
+      "do",
+      "nulla",
+      "sit",
+      "irure",
+      "deserunt"
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "5aba173877916cbe733133b6",
+    "index": 3,
+    "isActive": false,
+    "balance": "$1,132.86",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "green",
+    "name": {
+      "first": "Mari",
+      "last": "Hendricks"
+    },
+    "company": "ENVIRE",
+    "email": "mari.hendricks@envire.name",
+    "phone": "+1 (870) 582-3114",
+    "address": "850 Kansas Place, Tibbie, Indiana, 5854",
+    "registered": "Wednesday, August 5, 2015 1:45 PM",
+    "tags": [
+      "tempor",
+      "cupidatat",
+      "ut",
+      "laborum",
+      "deserunt"
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "5aba17384fbae5b21616da84",
+    "index": 4,
+    "isActive": true,
+    "balance": "$3,192.67",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Alford",
+      "last": "Joseph"
+    },
+    "company": "COMBOGENE",
+    "email": "alford.joseph@combogene.us",
+    "phone": "+1 (804) 515-3579",
+    "address": "348 Gilmore Court, Taft, Ohio, 2185",
+    "registered": "Monday, May 8, 2017 12:40 AM",
+    "tags": [
+      "laboris",
+      "do",
+      "eiusmod",
+      "do",
+      "enim"
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": "5aba17388bd7a2a4b1f72274",
+    "index": 5,
+    "isActive": false,
+    "balance": "$2,686.64",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Black",
+      "last": "Rivers"
+    },
+    "company": "VISUALIX",
+    "email": "black.rivers@visualix.com",
+    "phone": "+1 (943) 436-3174",
+    "address": "524 Lester Court, Strykersville, Puerto Rico, 8226",
+    "registered": "Thursday, January 12, 2017 12:02 AM",
+    "tags": [
+      "minim",
+      "reprehenderit",
+      "ad",
+      "nulla",
+      "ea"
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "id": "5aba1738a6c2b50ede78ea19",
+    "index": 6,
+    "isActive": true,
+    "balance": "$3,927.04",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Rosario",
+      "last": "Stafford"
+    },
+    "company": "DEEPENDS",
+    "email": "rosario.stafford@deepends.biz",
+    "phone": "+1 (972) 467-3695",
+    "address": "427 Bouck Court, Curtice, American Samoa, 9260",
+    "registered": "Saturday, March 18, 2017 12:16 AM",
+    "tags": [
+      "non",
+      "irure",
+      "incididunt",
+      "sint",
+      "aute"
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "id": "5aba17389903b22523ff4963",
+    "index": 7,
+    "isActive": false,
+    "balance": "$1,253.79",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Juliette",
+      "last": "Lara"
+    },
+    "company": "ZILLACTIC",
+    "email": "juliette.lara@zillactic.biz",
+    "phone": "+1 (984) 568-2783",
+    "address": "677 Taaffe Place, Itmann, Hawaii, 3610",
+    "registered": "Thursday, February 16, 2017 5:18 AM",
+    "tags": [
+      "sint",
+      "eu",
+      "nostrud",
+      "ex",
+      "culpa"
+    ],
+    "favoriteFruit": "apple"
+  }
+]
