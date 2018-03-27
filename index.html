@@ -21,6 +21,12 @@
 		</div>
 		<div class="right">
 			<ul>
+				<persona-card
+					v-for="persona in filteredPersonas"
+					:key="persona.name"
+					:persona="persona"
+				></persona-card>
+				<!--
 				<li v-for="persona in filteredPersonas" class="persona-card">
 					<div class="avatar"><img v-bind:src="persona.picture" /></div>
 					<div><b>{{persona.name}}</b> loves {{persona.favoriteFruit}}</div>
@@ -29,6 +35,7 @@
 						<span v-else>{{tag}}</span> 
 					</div>
 				</li>
+				-->
 			</ul>		
 		</div>
 	</div>
@@ -36,5 +43,14 @@
 </body>
 
 <script src="js/app.js"></script>
-
+<script type="text/x-template" id="persona-card-template">
+	<li class="persona-card">
+		<div class="avatar"><img v-bind:src="persona.picture" /></div>
+		<div><b>{{persona.name}}</b> loves {{persona.favoriteFruit}}</div>
+		<div> 
+			<span v-for="(tag,i) in persona.tags" v-if="i<persona.tags.length-1">{{tag}}, </span> 
+			<span v-else>{{tag}}</span> 
+		</div>
+	</li>
+</script>
 </html>

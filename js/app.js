@@ -1,4 +1,11 @@
 (function(window){
+
+    Vue.component('persona-card', {
+        props: ['persona'],
+        template: '#persona-card-template', // or we can just put the html here in a string, or even JSX (build step needed)
+    });
+
+
     var app = new Vue({
         el: '#values',
         data: {
